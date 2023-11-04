@@ -9,9 +9,9 @@ body{
 }
 
 .header{
-    height: 70px;
+    height: 80px;
     padding: 20px;
-    background-color: #b16abb;
+    background-color: #810891;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -38,7 +38,7 @@ ul, ol {
 }
 
 .foto-perfil{
-    max-width: 400px;
+    max-width: 300px;
     border: solid;
     border-color: #810891;
     border-radius: 50%;
@@ -48,30 +48,30 @@ main {
     display:flex;
     flex-direction:column;
     justify-content: center;
-    align-items: center;
-    width: 1000px;
+    
+  
 }
-
-.sub-section{
-    line-height: 25px;
-    margin-left: 30px;
-    justify-content: center;
-    display: flex;
-    width: 960px;
-    margin:auto;
-    }
 
 .article-container{
     background-color:#c8b2d1;
     padding: 50px;
-    justify-content:center;
-    text-align: left;
-    line-height: 25px; 
-    width: 100%;
+    text-align: center;
+    line-height: 35px; 
+    width: 100%
    }
+
+
+
+.sub-section{
+    line-height: 35px;
+    width: 980px;
+    margin: auto;
+    }
+
 
 h1 { 
     font-size: 30px;
+
 }   
 
 
@@ -85,7 +85,7 @@ h3{
 
 h4{
     font-size: 16px;
-}
+    }
 
 
 
